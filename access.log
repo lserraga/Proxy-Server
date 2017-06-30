@@ -1,0 +1,150 @@
+Date: 2017-3-14T0:37:10  "GET http://www.facebook.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T0:37:13  "GET http://www.facebook.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T0:37:22  "GET http://www.youtube.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T0:37:33 176.104.97.9 "GET www.example.com HTTP/1.1" 200 439 Bytes
+Date: 2017-3-14T0:37:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T0:37:51 176.104.97.9 "GET www.example.com HTTP/1.1" 200 1270 Bytes
+Date: 2017-3-14T0:37:53 168.104.97.9 "GET www.iana.org HTTP/1.1" 302 221 Bytes
+Date: 2017-3-14T0:37:53  "CONNECT www.iana.org:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 9929 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 42822 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 37683 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 93068 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 32870 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 68 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 157504 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 156596 Bytes
+Date: 2017-3-14T0:37:56 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 89024 Bytes
+Date: 2017-3-14T0:38:0 176.104.97.9 "GET www.icann.org HTTP/1.1" 302 0 Bytes
+Date: 2017-3-14T0:38:0  "CONNECT www.icann.org:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T0:38:4 176.104.97.9 "GET www.icann.org HTTP/1.1" 302 0 Bytes
+Date: 2017-3-14T0:38:4  "CONNECT www.icann.org:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 302 0 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 6575 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 1919 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 1006 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 979 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 1202 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 1035 Bytes
+Date: 2017-3-14T0:38:7 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:38:8 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:38:11 168.104.97.9 "GET www.iana.org HTTP/1.1" 302 218 Bytes
+Date: 2017-3-14T0:38:15 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 4018 Bytes
+Date: 2017-3-14T0:38:15 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:38:15 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 22780 Bytes
+Date: 2017-3-14T0:38:21  "  " 405 0 Bytes
+Date: 2017-3-14T0:38:21 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:38:22 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 7223 Bytes
+Date: 2017-3-14T0:38:23 176.104.97.9 "GET www.google.com HTTP/1.1" 400 54 Bytes
+Date: 2017-3-14T0:38:23 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 7293 Bytes
+Date: 2017-3-14T0:38:24 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 9215 Bytes
+Date: 2017-3-14T0:38:24 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 105437 Bytes
+Date: 2017-3-14T0:38:24 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 164928 Bytes
+Date: 2017-3-14T0:38:26 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:38:28 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:38:30 168.104.97.9 "GET www.iana.org HTTP/1.1" 200 782449 Bytes
+Date: 2017-3-14T0:38:35 168.104.97.9 "GET www.iana.org HTTP/1.1" 302 218 Bytes
+Date: 2017-3-14T0:49:30 112.184.17.8 "GET www.ascodevida.com HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:49:31 112.184.17.8 "GET www.ascodevida.com HTTP/1.1" 200 605 Bytes
+Date: 2017-3-14T0:49:31 112.184.17.8 "GET www.ascodevida.com HTTP/1.1" 200 605 Bytes
+Date: 2017-3-14T0:49:44 176.184.17.8 "GET www.example.com HTTP/1.1" 200 1270 Bytes
+Date: 2017-3-14T0:49:48 168.184.17.8 "GET www.iana.org HTTP/1.1" 302 221 Bytes
+Date: 2017-3-14T0:49:48  "CONNECT www.iana.org:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 9929 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 42822 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 37683 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 93068 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 68 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 32870 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 157504 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 89024 Bytes
+Date: 2017-3-14T0:49:54 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 156596 Bytes
+Date: 2017-3-14T0:50:2 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:50:6 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 7223 Bytes
+Date: 2017-3-14T0:50:6 176.184.17.8 "GET www.google.com HTTP/1.1" 400 54 Bytes
+Date: 2017-3-14T0:50:6 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 7293 Bytes
+Date: 2017-3-14T0:50:8 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 7744 Bytes
+Date: 2017-3-14T0:50:12 176.184.17.8 "GET www.google.com HTTP/1.1" 400 54 Bytes
+Date: 2017-3-14T0:50:15 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 782449 Bytes
+Date: 2017-3-14T0:50:19 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:50:19 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 1919 Bytes
+Date: 2017-3-14T0:50:19 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 8017 Bytes
+Date: 2017-3-14T0:50:19 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 120763 Bytes
+Date: 2017-3-14T0:50:19 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 1035 Bytes
+Date: 2017-3-14T0:50:22 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:50:22 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T0:50:22 168.184.17.8 "GET www.iana.org HTTP/1.1" 200 22780 Bytes
+Date: 2017-3-14T0:50:33  "  " 405 0 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 7223 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 93068 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 42822 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 37683 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 68 Bytes
+Date: 2017-3-14T1:5:44 176.184.99.8 "GET www.google.com HTTP/1.1" 400 54 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 7293 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 157504 Bytes
+Date: 2017-3-14T1:5:44 168.184.99.8 "GET www.iana.org HTTP/1.1" 200 156596 Bytes
+Date: 2017-3-14T1:12:57 168.24.142.9 "GET www.iana.org HTTP/1.1" 200 7744 Bytes
+Date: 2017-3-14T1:12:57 168.24.142.9 "GET www.iana.org HTTP/1.1" 200 32870 Bytes
+Date: 2017-3-14T1:12:59 176.24.142.9 "GET www.google.com HTTP/1.1" 400 54 Bytes
+Date: 2017-3-14T1:13:1 168.24.142.9 "GET www.iana.org HTTP/1.1" 200 9215 Bytes
+Date: 2017-3-14T1:13:1 168.24.142.9 "GET www.iana.org HTTP/1.1" 200 105437 Bytes
+Date: 2017-3-14T1:13:1 168.24.142.9 "GET www.iana.org HTTP/1.1" 200 164928 Bytes
+Date: 2017-3-14T1:13:7 176.24.142.9 "GET www.afrinic.net HTTP/1.1" 200 671 Bytes
+Date: 2017-3-14T1:13:7 176.24.142.9 "GET www.afrinic.net HTTP/1.1" 200 446 Bytes
+Date: 2017-3-14T1:13:7 176.24.142.9 "GET www.afrinic.net HTTP/1.1" 200 4210 Bytes
+Date: 2017-3-14T1:13:7 176.24.142.9 "GET www.afrinic.net HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T1:13:9 176.24.142.9 "GET www.afrinic.net HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T1:13:10 176.24.142.9 "GET www.afrinic.net HTTP/1.1" 200 1150 Bytes
+Date: 2017-3-14T1:15:7 176.24.142.9 "GET www.google.com HTTP/1.1" 400 54 Bytes
+Date: 2017-3-14T1:15:12  "  " 405 0 Bytes
+Date: 2017-3-14T2:13:33 176.8.214.9 "GET www.example.com HTTP/1.1" 200 439 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:34  "CONNECT wreg.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T2:13:51 176.8.214.9 "GET www.example.com HTTP/1.1" 200 606 Bytes
+Date: 2017-3-14T2:17:9  "  " 405 0 Bytes
+Date: 2017-3-14T2:17:13 176.24.1.9 "GET www.example.com HTTP/1.1" 200 606 Bytes
+Date: 2017-3-14T2:37:5  "GET http://www.facebook.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T2:37:11  "GET http://www.youtube.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T2:41:50  "GET http://www.youtube.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T2:42:2  "  " 405 0 Bytes
+Date: 2017-3-14T3:25:38  "  " 405 0 Bytes
+Date: 2017-3-14T3:25:43 176.121.163.8 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T3:25:43 160.121.163.8 "GET www.ucsc.edu HTTP/1.1" 200 34494 Bytes
+Date: 2017-3-14T6:3:53  "  " 405 0 Bytes
+Date: 2017-3-14T6:4:4 176.41.85.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:4  "CONNECT www.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T6:4:4 216.41.85.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:4 216.41.85.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:4 224.41.85.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:4 224.41.85.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:4 240.41.85.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:4  "CONNECT www.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T6:4:4 16.42.85.9 "GET www.googletagmanager.com HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:28 192.41.85.9 "GET www.ianna.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:28 200.41.85.9 "GET www.ianna.org HTTP/1.1" 404 auxSize Bytes
+Date: 2017-3-14T6:4:28 216.41.85.9 "GET www.ianna.org HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:4:57  "GET http://www.facebook.com/ HTTP/1.1" 403 0 Bytes
+Date: 2017-3-14T6:21:37 176.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37  "CONNECT www.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T6:21:37 216.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37 216.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37 224.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37 224.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37 240.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37 160.57.160.9 "GET www.ucsc.edu HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-14T6:21:37  "CONNECT www.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-14T6:21:37 16.58.160.9 "GET www.googletagmanager.com HTTP/1.1" 200 auxSize Bytes
+Date: 2017-3-13T23:0:16 224.39.240.0 "GET www.ucsc.edu HTTP/1.1" 200 4100 Bytes
+Date: 2017-3-13T23:0:16  "CONNECT www.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-13T23:0:16  "CONNECT www.ucsc.edu:443 HTTP/1.1" 405 0 Bytes
+Date: 2017-3-13T23:0:24 32.40.240.0 "GET www.ucsc.edu HTTP/1.1" 200 4099 Bytes
+Date: 2017-3-13T23:0:24 32.40.240.0 "GET www.ucsc.edu HTTP/1.1" 200 128635 Bytes

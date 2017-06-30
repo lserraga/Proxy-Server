@@ -1,0 +1,19 @@
+
+                Specification of the application-layer protocol:
+
+        The proxy is initialazied with a port number and a txt with the banned websites.
+        It sets up a listening TCP socket and enters an infinite loop waiting for connections
+        from the browser. As soon as a a browser is connected it forks a new process for
+        it.
+
+
+        It analizes the request from the browser and it checks if its correct and not for
+        a banned website. Then it uses the function getaddressinfo() to get the ip 
+        address of the remote server host. If it is succesful it connects to it. The proxy
+        analizes the response and depending if there is a content-;ength header or not 
+        it will retransmitt the response in 2 differetn ways.
+
+
+        If there isn't it just sends everything to the browser as it comes however, if 
+        there is one, it will check that all the bytes are sent. After fully responding
+        to the request it closes the connection and frees the sockets. 

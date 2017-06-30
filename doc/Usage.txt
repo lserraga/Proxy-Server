@@ -1,0 +1,10 @@
+
+                  How to use the proxy
+
+    Execute "./bin/proxy <port> <bannedWebs.txt>" in the main directory. Configure
+    the browser to route the HTTP requests through the proxy server (the IP
+    address is 127.0.0.1 and the port is the one you give when you start the proxy).
+
+    The imformation about the requests will be logged in access.log with 
+    the following format. <date-format> <client-ip> <request-first-line> 
+    <http-status-code> <object-size-in-byte>

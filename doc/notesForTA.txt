@@ -1,0 +1,10 @@
+
+
+    
+    I've managed to create a proxy that handles simple http requests. It works
+    only with determinate websites as it doesn't support connect requests. In my 
+    linux virtual machine I managed to get it working with images but for some 
+    reason it wasn't working in the lab machines.
+
+    The proxy works with example.com after taking off the s in https but it 
+    doesn't load the images because they are requested as a connect. 
